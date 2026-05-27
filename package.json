@@ -1,0 +1,24 @@
+{
+  "name": "hang-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsantosfelipe1/hang-game-js.git"
+  },
+  "keywords": [],
+  "author": "Filipe Santos Lima",
+  "license": "MSI",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lsantosfelipe1/hang-game-js/issues"
+  },
+  "homepage": "https://github.com/lsantosfelipe1/hang-game-js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
